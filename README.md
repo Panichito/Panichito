@@ -11,8 +11,8 @@
 <img src="https://img.shields.io/static/v1?label=hello&message=world&color=green?style=plastic&logo=appveyor" />
 <img align="center" src="https://readme-jokes.vercel.app/api" alt="README Jokes">
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=panichito&layout=compact&theme=city_lights)](https://github.com/nas-virat/github-readme-stats)
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=panichito&show_icons=true&theme=city_lights)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=panichito&layout=compact&theme=dark)](https://github.com/nas-virat/github-readme-stats)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=panichito&show_icons=true&theme=dark)
 
 <!---
 Panichito/Panichito is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
