@@ -11,7 +11,7 @@
 <img src="https://img.shields.io/static/v1?label=hello&message=world&color=green?style=plastic&logo=appveyor" />
 <img align="center" src="https://readme-jokes.vercel.app/api" alt="README Jokes">
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=panichito&layout=compact&theme=dark)](https://github.com/nas-virat/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=panichito&layout=compact&theme=dark)](https://github.com/panichito/github-readme-stats)
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=panichito&show_icons=true&theme=dark)
 
 ![snake gif](https://github.com/panichito/panichito/blob/output/github-contribution-grid-snake.svg)
