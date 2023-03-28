@@ -1,7 +1,7 @@
 <p align="center"><a href="https://www.facebook.com/panithi.suwanno" target="_blank" rel="noreferrer"> <img src="https://scontent.fbkk29-8.fna.fbcdn.net/v/t1.6435-9/108214966_2965022990262009_1804364956813959793_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=09cbfe&_nc_eui2=AeGUWNA4QUt_9Nld1floJDZPlAV1orpm5BGUBXWiumbkEaoR9MAZ3F0r2m-dqG7qZnU93Wikv5vvegD7EqtC_94D&_nc_ohc=vm7MKQ-vZg8AX8ccNM8&_nc_ht=scontent.fbkk29-8.fna&oh=00_AfDCpEOhAyTSjlsYDyVTV73d0VHjHF0tXBtMhP6wVul0Sw&oe=6444688D" alt="myfb" width="300" height="300"> </a></p>
 <h3 align="left">About me 👨‍💻:</h3>
 
-- [x] 👋 Hi, my real name is **Panithi** *(pa-ni-ti)*. My Thai nickname is **บิ๊ก** (pronounced big - popular byname for kids in 🇹🇭)!
+- [x] 👋 Hi, my name is **Panithi** *(pa-ni-ti)*. I now live in Bangkok, Thailand 🇹🇭.
 - [x] 🔎 *```Panichito```* is my name combined with the word *```despacito```* to remind me that when I do something, don't rush and pay attention to my surroundings (comparable to *a slow, steady step*).
 - [x] 👀 Interested in *Quantum Programming & Computing*
 - [x] 🌱 Currently learning *Linear Algebra & Mathematical Optimization*
