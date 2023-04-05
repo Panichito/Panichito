@@ -16,6 +16,8 @@
 
 ![snake gif](https://github.com/panichito/panichito/blob/output/github-contribution-grid-snake.svg)
 
+![qiskit-badge](https://images.credly.com/size/340x340/images/aca2f220-633e-4157-ace3-312dd75b0b4c/image.png)
+
 <!---
 Panichito/Panichito is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
