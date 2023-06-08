@@ -1,4 +1,3 @@
-<p align="center"><a href="https://www.facebook.com/panithi.suwanno" target="_blank" rel="noreferrer"> <img src="https://i.imgur.com/E8mmm7K.jpg" alt="myfb" width="300" height="300"> </a></p>
 <h3 align="left">About me 👨‍💻:</h3>
 
 - [x] 👋 Hi, my name is **Panithi** *(pa-ni-ti)*. I now live in Bangkok, Thailand 🇹🇭.
