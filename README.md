@@ -3,8 +3,8 @@
 - [x] 👋 Hi, my name is **Panithi** *(pa-ni-ti)*. I now live in Bangkok, Thailand 🇹🇭.
 - [x] 🔎 *```Panichito```* is my name combined with the word *```despacito```* to remind me that when I do something, don't rush and pay attention to my surroundings (comparable to *a slow, steady step*).
 - [x] 👀 Interested in *Quantum Programming & Computing*
-- [x] 🌱 Currently learning *Linear Algebra & Mathematical Optimization*
-- [x] 📚 Computer engineering is the major. Like any other software developer, I have primarily published work on websites and applications. Frankly, this form of work does not motivate me as much as employing algorithms to solve difficulties (especially math & ad hoc problem).
+- [x] 🌱 Currently learning *Linear Algebra & Combinatorial Optimization*
+- [x] 📚 Computer engineering is the major. Like any other software developer, I have primarily published work on developing websites and applications. Frankly, this work does not motivate me as much as employing algorithms to solve difficulties (especially math & ad hoc problem).
 - [x] 💞️ Looking to collaborate on <a href="https://www.linkedin.com/in/panithi-suwanno-89171a1a3/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a> 
 - [x] 📫 How to reach me panithi.suw@mail.kmutt.ac.th
 <img src="https://img.shields.io/static/v1?label=hello&message=world&color=green?style=plastic&logo=appveyor" />
@@ -16,7 +16,3 @@
 ![snake gif](https://github.com/panichito/panichito/blob/output/github-contribution-grid-snake.svg)
 
 <p align="center"><a href="https://qiskit.org/documentation/" target="_blank" rel="noreferrer"> <img src="https://images.credly.com/size/340x340/images/aca2f220-633e-4157-ace3-312dd75b0b4c/image.png" alt="myfb" width="250" height="250"> </a></p>
-<!---
-Panichito/Panichito is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
