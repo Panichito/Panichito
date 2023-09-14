@@ -13,6 +13,6 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=panichito&layout=compact&theme=dark)](https://github.com/panichito/github-readme-stats)
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=panichito&show_icons=true&theme=dark)
 
-![snake gif](https://github.com/panichito/panichito/blob/output/github-contribution-grid-snake.svg)
+<!-- ![snake gif](https://github.com/panichito/panichito/blob/output/github-contribution-grid-snake.svg) -->
 
 <p align="center"><a href="https://qiskit.org/documentation/" target="_blank" rel="noreferrer"> <img src="https://images.credly.com/size/340x340/images/aca2f220-633e-4157-ace3-312dd75b0b4c/image.png" alt="myfb" width="250" height="250"> </a></p>
