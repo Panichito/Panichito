@@ -9,9 +9,14 @@
 - [x] 💞️ Looking to collaborate on <a href="https://www.linkedin.com/in/panithi-suwanno-89171a1a3/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a> 
 - [x] 📫 How to reach me panithi.suw@mail.kmutt.ac.th, panithi.suwa@kmutt.ac.th
 -->
-<img src="https://img.shields.io/static/v1?label=hello&message=world&color=green?style=plastic&logo=appveyor" />
+<img src="https://badgen.net/badge/hello/world/blue?icon=gitlab"> <img src="https://komarev.com/ghpvc/?username=panichito&color=red" alt="profile_count">
 
-<img align="center" src="https://readme-jokes.vercel.app/api" alt="README Jokes">
+<img src="https://shields.io/badge/style-plastic-green?logo=appveyor&style=plastic"> <img src="https://img.shields.io/badge/rating-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-brightgreen">
+<img src="https://shields.io/badge/-yellowgreen-yellowgreen">
+<img src="https://shields.io/badge/-orange-orange">
+<img src="https://shields.io/badge/-blueviolet-blueviolet">
+
+<img align="center" src="https://readme-jokes.vercel.app/api" alt="jokes">
 
 <!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=panichito&layout=compact&theme=dark)](https://github.com/panichito/github-readme-stats)
